@@ -2,6 +2,7 @@
 ### Devnexus 2019
 
 * [Presentation](OAuthandOpenIDConnectInPlainEnglish.pdf)
+* [pkce-cli](https://github.com/oktadeveloper/pkce-cli)
 * [oauth.com](http://oauth.com)
 * [JWT Parser](https://jsonwebtoken.io)
 * [OIDC Playground - by @afitnerd](https://okta-oidc-fun.herokuapp.com)
